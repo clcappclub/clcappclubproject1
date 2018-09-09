@@ -14,6 +14,11 @@
 		376925A821412B8C002C0063 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 376925A621412B8C002C0063 /* LaunchScreen.storyboard */; };
 		376925B321412B8C002C0063 /* CLCAppClubProject1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376925B221412B8C002C0063 /* CLCAppClubProject1Tests.swift */; };
 		376925BE21412B8C002C0063 /* CLCAppClubProject1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376925BD21412B8C002C0063 /* CLCAppClubProject1UITests.swift */; };
+		376925CE21412C51002C0063 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 376925CD21412C51002C0063 /* GoogleService-Info.plist */; };
+		379129DC21427B8B00AD6557 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379129DB21427B8B00AD6557 /* ViewController2.swift */; };
+		43C31AEB50247EE95BE29AC8 /* Pods_CLCAppClubProject1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17B9D573B577EAE1790451C6 /* Pods_CLCAppClubProject1.framework */; };
+		4AC089B0446C6A690C3BFEF8 /* Pods_CLCAppClubProject1UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B71591D7CD381D6549FD1ADD /* Pods_CLCAppClubProject1UITests.framework */; };
+		6367E140DEB8A2EECF0DBCD5 /* Pods_CLCAppClubProject1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31AFF54CAA675C9BCF79DB8C /* Pods_CLCAppClubProject1Tests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +39,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00BD9EC82535D46375678FDE /* Pods-CLCAppClubProject1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1UITests/Pods-CLCAppClubProject1UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		03F70075D72BAD7D7E3B4084 /* Pods-CLCAppClubProject1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1.release.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1/Pods-CLCAppClubProject1.release.xcconfig"; sourceTree = "<group>"; };
+		0DF31CD76963D1B6280D0211 /* Pods-CLCAppClubProject1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1Tests/Pods-CLCAppClubProject1Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		17B9D573B577EAE1790451C6 /* Pods_CLCAppClubProject1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCAppClubProject1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		31AFF54CAA675C9BCF79DB8C /* Pods_CLCAppClubProject1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCAppClubProject1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		31ED6AB9AE09D236060FA882 /* Pods-CLCAppClubProject1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1/Pods-CLCAppClubProject1.debug.xcconfig"; sourceTree = "<group>"; };
 		3769259A21412B8C002C0063 /* CLCAppClubProject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CLCAppClubProject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3769259D21412B8C002C0063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3769259F21412B8C002C0063 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,11 @@
 		376925B921412B8C002C0063 /* CLCAppClubProject1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CLCAppClubProject1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		376925BD21412B8C002C0063 /* CLCAppClubProject1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLCAppClubProject1UITests.swift; sourceTree = "<group>"; };
 		376925BF21412B8C002C0063 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		376925CD21412C51002C0063 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		379129DB21427B8B00AD6557 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		832517017FC77F947650AEB1 /* Pods-CLCAppClubProject1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1Tests/Pods-CLCAppClubProject1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		B5D872A57FC5BC41AD5B88B6 /* Pods-CLCAppClubProject1UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CLCAppClubProject1UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CLCAppClubProject1UITests/Pods-CLCAppClubProject1UITests.release.xcconfig"; sourceTree = "<group>"; };
+		B71591D7CD381D6549FD1ADD /* Pods_CLCAppClubProject1UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CLCAppClubProject1UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43C31AEB50247EE95BE29AC8 /* Pods_CLCAppClubProject1.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6367E140DEB8A2EECF0DBCD5 /* Pods_CLCAppClubProject1Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AC089B0446C6A690C3BFEF8 /* Pods_CLCAppClubProject1UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +100,8 @@
 				376925B121412B8C002C0063 /* CLCAppClubProject1Tests */,
 				376925BC21412B8C002C0063 /* CLCAppClubProject1UITests */,
 				3769259B21412B8C002C0063 /* Products */,
+				68D577D429AD0CEC6C94D633 /* Pods */,
+				DD247C4F5891689A36FBBF5B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -100,9 +121,11 @@
 				3769259D21412B8C002C0063 /* AppDelegate.swift */,
 				3769259F21412B8C002C0063 /* ViewController.swift */,
 				376925A121412B8C002C0063 /* Main.storyboard */,
+				379129DB21427B8B00AD6557 /* ViewController2.swift */,
 				376925A421412B8C002C0063 /* Assets.xcassets */,
 				376925A621412B8C002C0063 /* LaunchScreen.storyboard */,
 				376925A921412B8C002C0063 /* Info.plist */,
+				376925CD21412C51002C0063 /* GoogleService-Info.plist */,
 			);
 			path = CLCAppClubProject1;
 			sourceTree = "<group>";
@@ -125,6 +148,29 @@
 			path = CLCAppClubProject1UITests;
 			sourceTree = "<group>";
 		};
+		68D577D429AD0CEC6C94D633 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				31ED6AB9AE09D236060FA882 /* Pods-CLCAppClubProject1.debug.xcconfig */,
+				03F70075D72BAD7D7E3B4084 /* Pods-CLCAppClubProject1.release.xcconfig */,
+				0DF31CD76963D1B6280D0211 /* Pods-CLCAppClubProject1Tests.debug.xcconfig */,
+				832517017FC77F947650AEB1 /* Pods-CLCAppClubProject1Tests.release.xcconfig */,
+				00BD9EC82535D46375678FDE /* Pods-CLCAppClubProject1UITests.debug.xcconfig */,
+				B5D872A57FC5BC41AD5B88B6 /* Pods-CLCAppClubProject1UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		DD247C4F5891689A36FBBF5B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17B9D573B577EAE1790451C6 /* Pods_CLCAppClubProject1.framework */,
+				31AFF54CAA675C9BCF79DB8C /* Pods_CLCAppClubProject1Tests.framework */,
+				B71591D7CD381D6549FD1ADD /* Pods_CLCAppClubProject1UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +178,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376925C221412B8C002C0063 /* Build configuration list for PBXNativeTarget "CLCAppClubProject1" */;
 			buildPhases = (
+				EDDE57CF3A20A9CF03F3F60F /* [CP] Check Pods Manifest.lock */,
 				3769259621412B8B002C0063 /* Sources */,
 				3769259721412B8B002C0063 /* Frameworks */,
 				3769259821412B8B002C0063 /* Resources */,
+				8DCAE580C9F606415AED2B0E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +197,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376925C521412B8C002C0063 /* Build configuration list for PBXNativeTarget "CLCAppClubProject1Tests" */;
 			buildPhases = (
+				27F7C343FD89BCEBC4E442AE /* [CP] Check Pods Manifest.lock */,
 				376925AA21412B8C002C0063 /* Sources */,
 				376925AB21412B8C002C0063 /* Frameworks */,
 				376925AC21412B8C002C0063 /* Resources */,
@@ -167,6 +216,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376925C821412B8C002C0063 /* Build configuration list for PBXNativeTarget "CLCAppClubProject1UITests" */;
 			buildPhases = (
+				02A92DB57B1D161B290B3667 /* [CP] Check Pods Manifest.lock */,
 				376925B521412B8C002C0063 /* Sources */,
 				376925B621412B8C002C0063 /* Frameworks */,
 				376925B721412B8C002C0063 /* Resources */,
@@ -188,20 +238,23 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = CLC;
 				TargetAttributes = {
 					3769259921412B8B002C0063 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0940;
 						ProvisioningStyle = Automatic;
 					};
 					376925AD21412B8C002C0063 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0940;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 3769259921412B8B002C0063;
 					};
 					376925B821412B8C002C0063 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0940;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 3769259921412B8B002C0063;
 					};
@@ -234,6 +287,7 @@
 			files = (
 				376925A821412B8C002C0063 /* LaunchScreen.storyboard in Resources */,
 				376925A521412B8C002C0063 /* Assets.xcassets in Resources */,
+				376925CE21412C51002C0063 /* GoogleService-Info.plist in Resources */,
 				376925A321412B8C002C0063 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,6 +308,85 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		02A92DB57B1D161B290B3667 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CLCAppClubProject1UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		27F7C343FD89BCEBC4E442AE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CLCAppClubProject1Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8DCAE580C9F606415AED2B0E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-CLCAppClubProject1/Pods-CLCAppClubProject1-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CLCAppClubProject1/Pods-CLCAppClubProject1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EDDE57CF3A20A9CF03F3F60F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CLCAppClubProject1-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		3769259621412B8B002C0063 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -261,6 +394,7 @@
 			files = (
 				376925A021412B8C002C0063 /* ViewController.swift in Sources */,
 				3769259E21412B8C002C0063 /* AppDelegate.swift in Sources */,
+				379129DC21427B8B00AD6557 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,15 +458,24 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -374,15 +517,24 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -410,30 +562,35 @@
 		};
 		376925C321412B8C002C0063 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 31ED6AB9AE09D236060FA882 /* Pods-CLCAppClubProject1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CLCAppClubProject1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
 		376925C421412B8C002C0063 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 03F70075D72BAD7D7E3B4084 /* Pods-CLCAppClubProject1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CLCAppClubProject1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
 		376925C621412B8C002C0063 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DF31CD76963D1B6280D0211 /* Pods-CLCAppClubProject1Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -441,13 +598,15 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CLCAppClubProject1.app/CLCAppClubProject1";
 			};
 			name = Debug;
 		};
 		376925C721412B8C002C0063 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 832517017FC77F947650AEB1 /* Pods-CLCAppClubProject1Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -455,33 +614,38 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CLCAppClubProject1.app/CLCAppClubProject1";
 			};
 			name = Release;
 		};
 		376925C921412B8C002C0063 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 00BD9EC82535D46375678FDE /* Pods-CLCAppClubProject1UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = CLCAppClubProject1UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1UITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = CLCAppClubProject1;
 			};
 			name = Debug;
 		};
 		376925CA21412B8C002C0063 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5D872A57FC5BC41AD5B88B6 /* Pods-CLCAppClubProject1UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = CLCAppClubProject1UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.clc.CLCAppClubProject1UITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = CLCAppClubProject1;
 			};
 			name = Release;
@@ -505,6 +669,7 @@
 				376925C421412B8C002C0063 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		376925C521412B8C002C0063 /* Build configuration list for PBXNativeTarget "CLCAppClubProject1Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +678,7 @@
 				376925C721412B8C002C0063 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		376925C821412B8C002C0063 /* Build configuration list for PBXNativeTarget "CLCAppClubProject1UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +687,7 @@
 				376925CA21412B8C002C0063 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
