@@ -1,14 +1,14 @@
 //
-//  ViewController2.swift
+//  MainTabBarViewController.swift
 //  CLCAppClubProject1
 //
-//  Created by Trinity on 9/9/2018.
+//  Created by Trinity on 10/9/2018.
 //  Copyright © 2018 CLC. All rights reserved.
 //
 
 import UIKit
 
-class ViewController2: UIViewController {
+class MainTabBarViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
